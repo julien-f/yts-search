@@ -1,6 +1,6 @@
 {
   "name": "yts-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "command line interface to the movies database yts",
   "main": "lib/index.js",
   "bin": "bin/yts-search.js",
